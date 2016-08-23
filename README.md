@@ -2,7 +2,7 @@
 
 This repository is a simple java-mongodb-driver docker compose sample.
 
-Execute the following command to run this sample:
+Execute the following commands to run this sample:
 
 docker-compose build
 
