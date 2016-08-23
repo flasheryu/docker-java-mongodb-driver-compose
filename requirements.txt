@@ -1,2 +1,1 @@
-flasheryu/java-mongodb-driver
 mongo
